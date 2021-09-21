@@ -1,2 +1,2 @@
 # Digraphs
-:graph: # Análise combinatória e teoria dos gráficos
+:chart_with_upwards_trend: # Análise combinatória e teoria dos gráficos
